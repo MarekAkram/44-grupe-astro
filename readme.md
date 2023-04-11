@@ -22,7 +22,8 @@ Design: [Serlokas](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*-i5m
 
 -   Github pages
 -   README / [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--   fixed-width content
+-favicon
+-fixed-width content
 - '<header>' , ' <footer>'
 -FontAwesome - font/icons
 -HTML - entities
