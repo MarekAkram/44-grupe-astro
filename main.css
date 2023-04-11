@@ -1,0 +1,21 @@
+header,
+main,
+footer {
+    width: 1200px;
+    margin-left: calc((100% - 1200px) / 2);
+}
+
+header {
+    background-color: yellow;
+    width: 1200px;
+}
+
+main {
+    background-color: greenyellow;
+    width: 1200px;
+}
+
+footer {
+    background-color: red;
+    width: 1200px;
+}
