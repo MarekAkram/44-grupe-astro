@@ -72,7 +72,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Rimantas: [Github](https://github.com/MarekAkram)
+Marek: [Github](https://github.com/MarekAkram)
 
 ## ⚠️ License
 
