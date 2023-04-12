@@ -1,21 +1,63 @@
+body,
+body * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+
 header,
 main,
 footer {
-    width: 1200px;
-    margin-left: calc((100% - 1200px) / 2);
-}
+    display: flex;
+    width: 800px;
+    margin: 30px calc((100% - 800px) / 2);
+    }
 
 header {
-    background-color: yellow;
-    width: 1200px;
-}
+    justify-content: space-between;
+    align-items: center;
+
+    }
+    img {
+        height: 30px;
+        width: 200px;
+        object-fit: contain;
+        object-position: center left;
+    }
+    
+    nav {
+        display: flex;
+        gap: 30px;
+    }
+    a {
+        color: #000;
+        text-decoration: none;
+        font-size: 18px;
+    }
+    a:hover {
+        color: #55337A;
+        text-decoration: underline;
+    }
 
 main {
-    background-color: greenyellow;
-    width: 1200px;
-}
+     
+    background-color: lightcoral;
+   }
 
 footer {
-    background-color: red;
-    width: 1200px;
+    background-color: lightgoldenrodyellow;
 }
+
+
+
+
+
+
+   
+
+
+
+
